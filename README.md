@@ -42,7 +42,10 @@ I was responsible for designing and implementing the Checkout subsystem, which i
 - Default.aspx
 - Default.aspx.cs
 
-## Note
+## Naming Note
 
-This repo includes only my code, excluding shared or teammate files, to respect academic policies.
+File naming conventions (e.g., `clsCheckouts`) were inherited from the team project skeleton provided by the university. They remain unchanged to reflect the original structure.
 
+## Disclaimer
+
+This repository includes only my code. Shared components, database schemas, and work done by other teammates have been excluded in compliance with academic integrity policies.
